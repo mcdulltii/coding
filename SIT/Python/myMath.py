@@ -1,0 +1,1 @@
+def add(x, y): return x+ydef subtraction(x, y): return x-ydef evenNum(x): return [y for y in x if y % 2 == 0]def maximum(x): return max(x)def minimum(x): return min(x)def absolute(x): return abs(x)def sumTotal(x): return sum(x)def clear(x): return [0 for y in x]def main(): passif __name__ == '__main__':    main()
